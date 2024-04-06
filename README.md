@@ -50,3 +50,4 @@ This application is a simple membership management system that allows you to add
 ## Group Member
 
 -Justin Ma
+-Aneet Romana
